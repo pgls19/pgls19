@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am Paola 👋
 
 <!--
 **pgls19/pgls19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a motivated web development graduate with experience building JavaScript websites and Rails applications looking for an opportunity to grow my front-end development skills in an innovative environment. I lend exemplary attention to details on all my projects and combined with excellent analytical, organisational and time management skills I deliver lasting and elegant websites.
