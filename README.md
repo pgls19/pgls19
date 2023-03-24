@@ -14,4 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a motivated web development graduate with experience building JavaScript websites and Rails applications looking for an opportunity to grow my front-end development skills in an innovative environment. I lend exemplary attention to details on all my projects and combined with excellent analytical, organisational and time management skills I deliver lasting and elegant websites.
+As a motivated web developer with a keen interest in testing 🤓, I have gained valuable experience building websites and Rails applications. I am now looking for an opportunity to further develop my front-end development skills and testing insights in an innovative environment.
+
+🔭 I’m currently working on my portfolio website.
+🌱 I’m currently learning React.
+⚡ Fun facts: - I am half Dutch 🧡 and half Peruvian 🦙 but people never guess that, haha.
+             - My #1 item on my bucket list is to see the Northern lights. 
+             - My favorite snack is sweet popcorn 🍿.
+
+If you have any questions regarding the projects, please don't hesitate to contact me via LinkedIn.
